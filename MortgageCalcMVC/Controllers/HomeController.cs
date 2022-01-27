@@ -39,6 +39,14 @@ public class HomeController : Controller
         
         return View();
     }
+
+    [HttpPost]
+    [AutoValidateAntiforgeryToken]
+    public IActionResult App(MortgageCalc mortgageCalc)
+    {
+
+        return View(mortgageCalc);
+    }
    
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()

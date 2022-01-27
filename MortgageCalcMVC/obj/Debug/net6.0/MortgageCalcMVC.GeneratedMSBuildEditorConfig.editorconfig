@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC/Views/Home/App.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9BcHAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

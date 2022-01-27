@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/jedmorris/.nuget/packages/": {}
+    "/Users/slothmanking/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC/MortgageCalcMVC.csproj",
+      "projectUniqueName": "/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC/MortgageCalcMVC.csproj",
       "projectName": "MortgageCalcMVC",
-      "projectPath": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC/MortgageCalcMVC.csproj",
-      "packagesPath": "/Users/jedmorris/.nuget/packages/",
-      "outputPath": "/Users/jedmorris/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC/obj/",
+      "projectPath": "/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC/MortgageCalcMVC.csproj",
+      "packagesPath": "/Users/slothmanking/.nuget/packages/",
+      "outputPath": "/Users/slothmanking/Library/Mobile Documents/com~apple~CloudDocs/Documents/Projects/CoderFoundry/atlas/MortgageCalcMVC/MortgageCalcMVC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jedmorris/.nuget/NuGet/NuGet.Config"
+        "/Users/slothmanking/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
